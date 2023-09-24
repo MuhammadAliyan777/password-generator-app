@@ -1,0 +1,8 @@
+sb se pehle basic normal advanced ki logic if/else se check kro
+aur han jo food name hai us field ko htado htmol aur db dono se uski jaga food packages kai select dropdown main un kai ye level kai sath ye 
+likh do kai kitni dishes ayi gi usme
+
+ab game khel lia ho to ye kaam krlo
+
+theek hai
+chal
